@@ -1,5 +1,5 @@
 import "./App.css";
-import ComponenteA from "./components/componenteB";
+import ComponenteA from "./components/ejercicio 1,2,3/componenteB";
 //import TaskListComponent from "./components/container/task_list";
 //import Greeting from "./components/pure/greeting";
 //import GreetingF from "./components/pure/greetingF";
